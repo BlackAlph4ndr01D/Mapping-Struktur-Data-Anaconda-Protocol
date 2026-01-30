@@ -1,0 +1,8 @@
+{
+  "event_id": "ANCD-2026-001",
+  "subject": "Targeting_Algorithm_X",
+  "fact_point": "Automated decision detected at coordinates [Redacted]",
+  "propaganda_claim": "Manual operation",
+  "truth_status": "Verified_Anomally",
+  "nabil_legacy_note": "Ref 02:15 - Pattern observed"
+}
